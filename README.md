@@ -24,7 +24,7 @@ The platform connects multiple independent vendors, product catalogs, customer o
 
 ## 2. Entity Relationship Diagram (ERD)
 
-The complete visual ERD is provided as `erd_diagram.png` in this directory.
+![Multi-Vendor SaaS ERD Diagram](erd_diagram.png)
 
 ```mermaid
 erDiagram
