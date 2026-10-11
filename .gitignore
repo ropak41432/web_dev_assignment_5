@@ -1,0 +1,13 @@
+# Ignore question materials strictly
+Questions and Materials/
+*.pdf
+
+# Temporary scripts and scratch files
+extracted_question.txt
+generate_erd.py
+__pycache__/
+*.pyc
+
+# OS generated files
+Thumbs.db
+.DS_Store
